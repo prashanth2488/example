@@ -1,0 +1,10 @@
+AWS EC2:
+   create instances
+   instance types
+   plans:
+     savings plan
+     capacity reservations
+     on demand servers
+   volumes:
+      EBS Volumes
+      snapshots
