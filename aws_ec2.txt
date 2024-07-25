@@ -8,3 +8,11 @@ AWS EC2:
    volumes:
       EBS Volumes
       snapshots
+   Autoscaling
+   Images
+   Security groups
+  
+
+Yet to Learn:
+   load balancing
+   elastic IP addressing
